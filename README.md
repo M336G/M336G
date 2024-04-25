@@ -1,7 +1,7 @@
 ### 👋 Hey!
 
 ## ? About Me
-I am M336, you may recognize me from my GDPS, [PlusGDPS](https://discord.gg/umPTrqmkFD), from my Discord bot, [WitherBot](https://discord.com/oauth2/authorize?client_id=1039238934682665030&permissions=1099780130822&scope=bot), or from my Geode mod, [Level Info](https://geode-sdk.org/mods/m336.levelinfo/). My main programming language is Python and I am currently learning C++.
+I am M336, you may recognize me from my GDPS, [PlusGDPS](https://discord.gg/umPTrqmkFD), from my Discord bot, [WitherBot](https://discord.com/oauth2/authorize?client_id=1039238934682665030), or from my Geode mod, [Level Info](https://geode-sdk.org/mods/m336.levelinfo/). My main programming language is Python and I am currently learning C++.
 
 ## 📊 My GitHub stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
