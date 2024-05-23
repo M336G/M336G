@@ -3,8 +3,8 @@ I am M336, you may recognize me from my GDPS, [PlusGDPS](https://discord.gg/umPT
 
 ## My GitHub stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=M336G&show_icons=true&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=M336G&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M336G&theme=dark&layout=compact&hide_progress=false&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M336G&theme=dark&layout=compact&hide_progress=false&langs_count=8&card_width=320" />
 </a>
